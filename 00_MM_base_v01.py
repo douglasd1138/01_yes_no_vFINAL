@@ -74,19 +74,6 @@ while tickets_sold < MAX_TICKETS:
         print("?? that looks like a typo, please try again.")
         continue
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 tickets_sold += 1
 
 # output number of tickets sold
