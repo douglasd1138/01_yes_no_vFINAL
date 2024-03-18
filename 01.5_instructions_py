@@ -1,0 +1,29 @@
+# shows instructions
+def shows_instructions():
+    print('''\n
+*****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+
+
+
+
